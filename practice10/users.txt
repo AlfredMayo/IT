@@ -1,0 +1,78 @@
+Account Number: 1234
+Account Name: Clyde Balaman
+PIN: 1234
+Account Type: Savings Account
+Balance: 15500.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 1234
+Account Type: Student Account
+Balance: 50000.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 0987
+Account Type: Student Account
+Balance: 50800.00
+
+Account Number: 1234567890112
+Account Name: Robin Padilla
+PIN: 1234
+Account Type: Student Account
+Balance: 1000.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 1234
+Account Type: Student Account
+Balance: 50050.00
+
+Account Number: 1234567890112
+Account Name: Robin Padilla
+PIN: 1111
+Account Type: Student Account
+Balance: 500.00
+
+Account Number: 1234567890112
+Account Name: Robin Padilla
+PIN: 1111
+Account Type: Student Account
+Balance: 1000.00
+
+Account Number: 123456789001
+Account Name: walang kanenbuseng
+PIN: 1234
+Account Type: Student Account
+Balance: 50000.00
+
+Account Number: 123456789001
+Account Name: walang kanenbuseng
+PIN: 1111
+Account Type: Student Account
+Balance: 49500.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 1234
+Account Type: Student Account
+Balance: 50050.00
+
+Account Number: 123456789001
+Account Name: walang kanenbuseng
+PIN: 1111
+Account Type: Student Account
+Balance: 49500.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 1234
+Account Type: Student Account
+Balance: 50500.00
+
+Account Number: 12345678901
+Account Name: Alfred Mayo C. Dela Cruz
+PIN: 1234
+Account Type: Student Account
+Balance: 50050.00
+

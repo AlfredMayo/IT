@@ -1,0 +1,37 @@
+Timestamp: 2026-08-31 18:54:28
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2000.00
+Balance After: ₱12000.00
+
+Timestamp: 2026-08-31 18:55:07
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱5000.00
+Balance After: ₱17000.00
+
+Timestamp: 2026-08-31 18:55:49
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱1500.00
+Balance After: ₱15500.00
+
+12345678901|2026-09-03 11:52:12|Deposit|5000.00
+12345678901|2026-09-03 11:52:17|Withdrawal|1000.00
+12345678901|2026-09-03 11:56:52|Withdrawal|1000.00
+12345678901|2026-09-03 11:57:39|Mobile Load - Smart|100.00
+1234567890112|2026-09-03 12:06:30|Withdrawal|500.00
+123456789001|2026-09-03 12:19:25|Withdrawal|500.00
+123456789001|2026-09-03 12:19:52|Mobile Load - Smart|100.00
+123456789001|2026-09-03 12:20:01|Transfer → 12345678901|65.00
+123456789001|2026-09-03 12:20:45|Withdrawal|500.00
+123456789001|2026-09-03 12:21:07|Mobile Load - Smart|500.00
+123456789001|2026-09-03 12:21:22|Transfer → 12345678901|515.00
+123456789001|2026-09-03 12:31:54|Transfer → 12345678901|65.00
+123456789001|2026-09-03 12:32:07|Mobile Load - Globe|50.00
